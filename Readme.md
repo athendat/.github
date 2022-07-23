@@ -1,4 +1,4 @@
-### Somos ATHENDAT s.r.l.
+### ATHENDAT s.r.l.
 #### Soluciones para una mejor sociedad
 ![Soluciones para una mejor sociedad](https://res.cloudinary.com/athendat/image/upload/v1651332820/athendat/banners/banner-1280x640_p2peov.png)
 
@@ -10,7 +10,5 @@ Skills: HTML / CSS / JS / NodeJS / NestJS / Angular / Ionic / Flutter / C# / net
 
 - 🔭 Actualmente estamos trabajando en plataformas de comercio electrónico de diferentes tipos. 
 - 📫 Contáctenos en: athendat@athendat.site  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=athendat)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Profile views](https://gpvc.arturio.dev/athendat)  
